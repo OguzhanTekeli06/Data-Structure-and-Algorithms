@@ -1,4 +1,4 @@
-#1.Single Responsibility Principle (SRP) - Tek Sorumluluk Prensibi
+#1 .Single Responsibility Principle (SRP) - Tek Sorumluluk Prensibi
 Açıklama: Bu prensibe göre, bir sınıf yalnızca bir işten sorumlu olmalıdır. Başka bir deyişle, sınıf bir işin yanı sıra başka sorumluluklar üstlenmemelidir. Bu, kodun daha modüler ve yönetilebilir olmasını sağlar.
 
 Örnek: Bir kullanıcı yönetimi sistemi düşünelim. Kullanıcıları yönetmek için bir UserManager sınıfımız olsun. SRP'ye göre bu sınıf sadece kullanıcı işlemleriyle ilgilenmeli, veritabanı işlemleri veya raporlama gibi başka sorumlulukları olmamalıdır.
